@@ -1,1 +1,12 @@
+A shared platform service that allows anyone looking to buy/sell/resell real estate.
+The goal is to connect networks from different sellers\resellers to get the best deals for buyers & sellers.
 
+Scenarios:
+1. A buyer looking for maximum options of sellers, real-estate types, prices, etc
+2. A seller looking for the largest audience of buyers across different networks who could give the best price for a property.
+3. A new business maker looking to grow into a property manager of buy/sell/resell.
+4. A service having ratings and reviews of different businesses & their holders.
+5. A service that can assist in growing the positive ratings of different businesses by connecting them to the right tools, trainers and processes.
+6. A service with Legal handles to provide suggestions and/or approvals.
+7. A service that performs a net growth in revenue across all its stake holders.
+8. A service that leverages AI (services & agents) & modern technology to provide best UX.
